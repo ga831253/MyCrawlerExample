@@ -12,7 +12,7 @@ public class FBElasticImport {
 
     static String elasticHost = "dyn.gibar.co" ;
     static String elasticPort = "9200" ;
-    static String elasticIndex = "YourGitHubID";
+    static String elasticIndex = "ga831253";
     static String elasticIndexType = "data";
     static String pageName = "JudgeAd";
     // 2017-09-02
@@ -21,7 +21,7 @@ public class FBElasticImport {
     static int days = 10;
     // 每日抓取文章上限 (上限1000)
     static int maxPosts = 10;
-    static String access_token = "EAACEdEose0cBAK9hBiFF137BRoevmmZAHJvNVsfTM9DfxDQt9ZBigLj1plmrkYZA5R8GrthbDFDxGWDj2zVsckZBoyCGHVZCOOjm8JtagFzrM4dw46eaprF1KBzisC7j7Qf4v1JtNKW6q4lDAuHc0ItUNKjf8Uc2kBibcUTXGK3HBk1XkrEs3CiyrHCZCWZAocZD";
+    static String access_token = "EAACEdEose0cBAAadHdxfK22h3fS8e2R2vRZAnwnLMZCiUCr10QRisowGdwget7IQkEW8R4KpRIK5QKwmRbDUr3ERBDckmbuv0lomGttVEix6XyQjkZBnuO1L3fZC6xhDZBqxRsd93DXZC1EASpR5q3s5fAM3cTfCUWuv3MqWZC9NrvICgfuvcKC5ZCcK2kNFGXookQY5YdhjdwZDZD";
 
     public static void main(String[] args) {
 
